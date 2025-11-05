@@ -4,7 +4,7 @@ All notable changes to this project will be documented in this file.
 
 ---
 
-## [0.0.1] - 2025-11-05
+## [0.0.6] - 2025-11-05
 
 ### 🎉 Initial Stable Release
 
