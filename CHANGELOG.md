@@ -4,7 +4,7 @@ All notable changes to this project will be documented in this file.
 
 ---
 
-## [1.0.0] - 2025-11-05
+## [0.0.1] - 2025-11-05
 
 ### 🎉 Initial Stable Release
 
@@ -21,7 +21,7 @@ All notable changes to this project will be documented in this file.
 
 ---
 
-## [1.0.1] - 2025-11-10
+## [0.0.2] - 2025-11-10
 
 ### 🛠 Improvements
 
@@ -31,7 +31,7 @@ All notable changes to this project will be documented in this file.
 
 ---
 
-## [1.0.2] - 2025-11-15
+## [0.0.5] - 2025-11-15
 
 ### ⚙️ Maintenance
 
