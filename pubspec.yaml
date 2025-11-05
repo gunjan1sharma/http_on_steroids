@@ -1,6 +1,6 @@
 name: http_on_steroids
 description: "A supercharged HTTP client for Flutter. Caching (Hive / Sqflite), offline-first behavior, reactive streams, circuit-breaker protection, configurable TTL/eviction policies, lifecycle-aware background refresh — all in a single, ergonomic API."
-version: 0.0.7
+version: 0.0.8
 homepage: https://github.com/gunjan1sharma/http_on_steroids
 repository: https://github.com/gunjan1sharma/http_on_steroids
 
